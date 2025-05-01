@@ -22,7 +22,7 @@ Agora entre na pasta com o terminal
 
 E agora basta rodar o docker
 
-`docker-compose up -d`
+`docker compose up -d`
 
 Pronto,é sucesso!
 

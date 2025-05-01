@@ -14,7 +14,7 @@ Essa estrutura já está dockerizada, então basta ter o docker compose rodando 
 
 Primeiro basta clonar o repositório
 
-`git clone https://github.com/alessandrofeitoza/setup-php-docker`
+`https://github.com/GabrielCordeiroBarrosoTeles/setup-php-docker.git`
 
 Agora entre na pasta com o terminal 
 
